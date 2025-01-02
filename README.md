@@ -1,1 +1,1 @@
-# Python_Temel_-al-mas-
+# Python_Temel_Alistirmalari
